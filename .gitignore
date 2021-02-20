@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# some more ignores
+.vscode
+*.ilk
+*.pdb
+__pycache__
+.vs
+x64
+gcc cpp .vscode
